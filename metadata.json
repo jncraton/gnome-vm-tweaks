@@ -1,0 +1,8 @@
+{
+	"name": "vm-tweaks",
+	"description": "vm-tweaks",
+	"shell-version": [ "3.36 "],
+	"url":"",
+	"uuid":"vm-tweaks",
+	"version": 1.0
+}
